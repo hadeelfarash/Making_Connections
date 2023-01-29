@@ -1,0 +1,195 @@
+.nav{
+    width: 1500px;
+    height: 70px;
+    background-color: silver;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.nav2{
+    margin-right: 30px;
+    display: flex;
+}
+ul {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+    
+    
+}
+li {
+    color: cornflowerblue;
+    text-decoration: none;
+    display: inline;
+}
+.btn{
+    margin-top: 15px;
+    margin-left: 50px;
+    background-color:aqua;
+    width: 70px;
+    height: 30px;
+
+}
+
+
+.page{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.div1{
+    display: block;
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 0px;
+}
+.y{
+    border-radius: 50%;
+}
+.div2{
+    
+    display: block;
+    width: 300px;
+    margin-left: 1px;
+    
+}
+.user_card{
+    border: 3px solid gray;
+    height: 400px;
+}
+#top{
+    background-color: cornflowerblue;
+    width: 495px;
+    height: 100px;
+}
+.img1{
+    display: absolute;
+    margin-top: 40px;
+    margin-left: 15px;
+    border: 1px;
+    border-radius: 50%;
+}
+#doc{
+    padding: 5%;
+}
+
+.edu{
+
+    border: 3px solid gray;
+    height: 200px;
+    margin-top: 20px;
+
+}
+#s{
+    margin: 3%;
+    padding-top: 10%;
+}
+.dedu{
+    padding: 3%;
+}
+
+.con{
+    padding-top: 0px;
+    border: 3px solid gray;
+    height: 250px;
+    margin-bottom: 30px;
+}
+    
+    
+
+
+#f1{
+    display: flex;
+    justify-content: space-around;
+}
+#f2{
+    display: flex;
+    justify-content: space-around;
+
+}
+.tow{
+    margin-top: 30px;
+    padding: 3%;
+    border: 1px outset gray;
+    background-color:darkgray;
+    border-radius: 50%;
+    border-color: gray;  
+    display: inline;
+    margin-left: 5px;
+}
+.y_con{
+    padding-top: 0px;
+    border: 3px solid gray;
+    height: 400px; 
+    margin-bottom: 30px;
+    padding-top: 0px;
+    
+    
+}
+.c{
+    background-color: silver;
+    height: 50px;
+}
+.tow2{
+
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    border: 1px outset gray;
+    border-radius: 50%;
+    border-color: gray;  
+    display: inline;
+}
+.m1{
+    border-radius: 50%;
+    padding-left: 20px;
+}
+h3{
+    margin-top: 10%;
+    display: inline;
+}
+#con1{
+    background-color: silver;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#f1{
+    margin-bottom: 20px;
+}
+#f2{
+    margin-bottom: 10px;
+
+}
+
+#div11{
+    padding: 10px;
+    background-color: silver;
+
+}
+
+.marg{
+    margin-top: 10px;
+}
+.m2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 15px;
+}
+#v{
+    
+    width: 290px;
+    height: 50px;
+    color: cornflowerblue;
+    text-decoration: underline;
+    border: 3px outset gray;
+}
+
+.img{
+    border-radius: 50%;
+}
+
+
